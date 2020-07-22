@@ -5,6 +5,7 @@
 				<image class="imgBoximage" src="../../images/cleanShow.png"></image>
 			</view>
 			<view class="shopMsg">
+			
 				<view class="shopDesc">
 					<text class="shopTitle">厨房油烟清洗</text>
 					<!-- <text class="handlePrice">会员价格： <text class="priceSty">2300</text>
