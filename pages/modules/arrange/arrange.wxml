@@ -1,0 +1,36 @@
+<view class="wrapper">
+  <view class="mealName">厨房油烟清洗套餐</view>
+  <view class="mealDesc">
+    <view class="mealGuild">服务店: </view>
+    <view class="mealtitle">喜到家布吉分店</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">服务内容: </view>
+    <view class="mealtitle">包含油烟机清洗一次，包含XXX一次。包含XXX
+
+                   XXXXxxxxxx服务内容 服务内容</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">服务电话: </view>
+    <view class="mealtitle">0755-12345677</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">预约地址: </view>
+    <view class="mealtitle">广东省深圳市龙岗区布吉
+
+                  街道XXX花园XXX新村XXX号</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">预约时间: </view>
+    <view class="mealtitle">
+        <picker mode="date" value="{{selectDate}}" start="2020-01-01" end="2050-09-01" bindchange="bindDateChange">
+      <view class="picker">
+         {{selectDate}}
+      </view>
+    </picker>
+    </view>
+  </view>
+  <view class="yuyueBox">
+    <button type="primary">预约</button>
+  </view>
+</view>

@@ -1,0 +1,8 @@
+<!-- 引入tabbar组件 -->
+<import src="../../templates/tabbar/tabbar.wxml"/>
+
+<home wx:if="{{activeUrl == 'home'}}"></home>
+<mine wx:if="{{activeUrl == 'mine'}}"></mine>
+
+<!-- tabar菜单 -->
+<template is="tabBar" data="{{menus}}"  />

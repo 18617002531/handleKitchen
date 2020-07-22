@@ -1,0 +1,4 @@
+/* pages/modules/about/about.wxss */
+.aboutBox{
+  padding: 28rpx;
+}

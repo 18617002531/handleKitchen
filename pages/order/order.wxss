@@ -1,0 +1,32 @@
+/* pages/order/order.wxss */
+.wrapper {
+  background: #fff;
+  display: flex;
+  overflow: auto;
+  flex-direction: column;
+  height: 100%;
+  padding-bottom: 50rpx;
+}
+
+.mealName {
+  font-size: 30rpx;
+  font-weight: bold;
+  padding: 27rpx 30rpx;
+border-bottom: 1rpx solid #e3e3e3
+}
+
+.mealDesc {
+  font-size: 29rpx;
+  display: flex;
+  flex-direction: row;
+  padding: 27rpx 30rpx;
+border-bottom: 1rpx solid #e3e3e3
+}
+
+.mealGuild {
+  width: 140rpx;
+}
+
+.mealtitle {
+  flex: 1;
+}

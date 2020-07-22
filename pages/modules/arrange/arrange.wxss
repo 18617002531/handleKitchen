@@ -1,0 +1,40 @@
+/* pages/order/order.wxss */
+.wrapper {
+  background: #fff;
+  display: flex;
+  overflow: h;
+  flex-direction: column;
+  height: 100%;
+
+}
+
+.mealName {
+  font-size: 30rpx;
+  font-weight: bold;
+  padding: 33rpx 30rpx;
+border-bottom: 1rpx solid #e3e3e3;
+
+}
+
+.mealDesc {
+  font-size: 29rpx;
+  display: flex;
+  flex-direction: row;
+  line-height: 38rpx;
+  border-bottom: 0.5px solid #e3e3e3;
+  padding: 27rpx 30rpx;
+  
+}
+
+.mealGuild {
+  width: 160rpx;
+}
+
+.mealtitle {
+  flex: 1;
+}
+.yuyueBox{
+  position: fixed;
+  bottom: 90rpx;
+  width: 100%;
+}

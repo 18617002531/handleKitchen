@@ -1,0 +1,58 @@
+<view class="wrapper">
+  <view class="mealName">厨房油烟清洗套餐</view>
+  <view class="mealDesc">
+    <view class="mealGuild">服务店: </view>
+    <view class="mealtitle">喜到家布吉分店</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">服务内容: </view>
+    <view class="mealtitle">包含油烟机清洗一次，包含XXX一次。包含XXX
+
+                   XXXXxxxxxx服务内容 服务内容</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">预约时间: </view>
+    <view class="mealtitle">2020-08-01</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">服务电话: </view>
+    <view class="mealtitle">0755-12345677</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">预约地址: </view>
+    <view class="mealtitle">广东省深圳市龙岗区布吉
+                  街道XXX花园XXX新村XXX号</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">接单师傅: </view>
+    <view class="mealtitle">刘德华</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">订单状态: </view>
+    <view class="mealtitle">已接单</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">下单时间: </view>
+    <view class="mealtitle">2020-08-01 12:12</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">接单时间: </view>
+    <view class="mealtitle">2020-08-01 12:12</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">签到时间: </view>
+    <view class="mealtitle">2020-08-01 12:12</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">完工时间: </view>
+    <view class="mealtitle">2020-08-01 12:12</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">服务评价: </view>
+    <view class="mealtitle">很满意</view>
+  </view>
+  <view class="mealDesc">
+    <view class="mealGuild">宝贵建议: </view>
+    <view class="mealtitle">很满意</view>
+  </view>
+</view>

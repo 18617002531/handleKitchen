@@ -1,0 +1,59 @@
+<view class="wrapper">
+	<view class="shopBox" bindtap="intoDetail">
+		<view class="shopBoxDiv">
+			<view class="imgBox">
+				<image class="imgBoximage" src="../../images/cleanShow.png"></image>
+			</view>
+			<view class="shopMsg">
+				<view class="shopDesc">
+					<text class="shopTitle">厨房油烟清洗</text>
+					<!-- <text class="handlePrice">会员价格： <text class="priceSty">2300</text>
+        </text> -->
+				</view>
+				<view class="shopName">服务店：喜到家福田分店</view>
+				<view class="shopAdd">地址：福田福民地铁站石厦小区233栋</view>
+			</view>
+		</view>
+		<view class="shopGuild">
+			介绍：厨房油烟机bai、排气扇、燃气灶、瓷du砖、灶台（去油除菌）
+			洗碗池、zhi微波炉、橱柜（消毒杀菌）...</view>
+	</view>
+	<view class="shopBox" bindtap="intoDetail">
+		<view class="shopBoxDiv">
+			<view class="imgBox">
+				<image class="imgBoximage" src="../../images/cleanShow.png"></image>
+			</view>
+			<view class="shopMsg">
+				<view class="shopDesc">
+					<text class="shopTitle">厨房油烟清洗</text>
+					<!-- <text class="handlePrice">会员价格： <text class="priceSty">2300</text>
+        </text> -->
+				</view>
+				<view class="shopName">服务店：喜到家福田分店</view>
+				<view class="shopAdd">地址：福田福民地铁站石厦小区233栋</view>
+			</view>
+		</view>
+		<view class="shopGuild">
+			介绍：厨房油烟机bai、排气扇、燃气灶、瓷du砖、灶台（去油除菌）
+			洗碗池、zhi微波炉、橱柜（消毒杀菌）...</view>
+	</view>
+	<view class="shopBox" bindtap="intoDetail">
+		<view class="shopBoxDiv">
+			<view class="imgBox">
+				<image class="imgBoximage" src="../../images/cleanShow.png"></image>
+			</view>
+			<view class="shopMsg">
+				<view class="shopDesc">
+					<text class="shopTitle">厨房油烟清洗</text>
+					<!-- <text class="handlePrice">会员价格： <text class="priceSty">2300</text>
+        </text> -->
+				</view>
+				<view class="shopName">服务店：喜到家福田分店</view>
+				<view class="shopAdd">地址：福田福民地铁站石厦小区233栋</view>
+			</view>
+		</view>
+		<view class="shopGuild">
+			介绍：厨房油烟机bai、排气扇、燃气灶f、瓷du砖、灶台（去油除菌）
+			洗碗池、zhi微波炉、橱柜（消毒杀菌）...</view>
+	</view>
+</view>

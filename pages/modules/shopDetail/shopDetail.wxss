@@ -1,0 +1,13 @@
+.barImg{
+  width: 100%;
+height: 100%;
+}
+.mealDesc{
+  font-size: 28rpx;
+  padding: 25rpx;
+}
+.oppointBox{
+  position: fixed;
+  bottom: 90rpx;
+  width: 100%;
+}

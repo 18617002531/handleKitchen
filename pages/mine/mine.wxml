@@ -1,0 +1,26 @@
+<view class="mineBox">
+  <view class="mineMsg">
+    <view class="mineImgBox">
+      <image class="mineImg" src="../../images/mineimg.png"></image>
+    </view>
+    <view class="mineDescBox">
+      <view class="mineName">清洗大侠</view>
+      <view class="mineNo">V7868677558</view>
+    </view>
+  </view>
+  <view class="guildWrap" bindtap="intoHistory">
+    <image class="guildImg" src="../../images/guild/zuixinkecheng.png"></image>
+    订单
+    <text class="guildIcon">></text>
+  </view>
+  <view class="guildWrap" bindtap="intoRegister">
+    <image class="guildImg" src="../../images/guild/jiaoliu.png"></image>
+    注册
+    <text class="guildIcon">></text>
+  </view>
+  <view class="guildWrap" bindtap="intoAbout">
+    <image class="guildImg" src="../../images/guild/lishi.png"></image>
+    关于我们
+    <text class="guildIcon">></text>
+  </view>
+</view>

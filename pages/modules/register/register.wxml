@@ -1,0 +1,25 @@
+<view>
+  <view class="registerList">
+    <text class="registerTitle">姓名: </text>
+    <input class="registerVal" maxlength="10" placeholder="请输入姓名" />
+  </view>
+  <view class="registerList">
+    <text class="registerTitle">联系电话: </text>
+    <input class="registerVal" maxlength="10" placeholder="请输入姓名" />
+  </view>
+  <view class="registerList">
+    <text class="registerTitle">店铺名称: </text>
+    <input class="registerVal" maxlength="10" placeholder="请输入姓名" />
+  </view>
+  <view class="registerList">
+    <text class="registerTitle">店铺地址: </text>
+    <input class="registerVal" maxlength="10" placeholder="请输入姓名" />
+  </view>
+  <view class="registerList">
+    <text class="registerTitle">邮箱(选填): </text>
+    <input class="registerVal" maxlength="10" placeholder="请输入姓名" />
+  </view>
+  <view class="submitBox">
+    <button type="primary">提交</button>
+  </view>
+</view>

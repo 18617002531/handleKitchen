@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "喜到家清洗",
+  "usingComponents": {
+    "home": "../home/index",
+    "mine": "../mine/mine"
+  }
+}

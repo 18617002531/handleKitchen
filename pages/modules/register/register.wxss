@@ -1,0 +1,29 @@
+.registerList {
+  background: #fff;
+  display: flex;
+  align-items: center;
+  padding: 26rpx 30rpx;
+  border-bottom: 1rpx solid #e3e3e3;
+}
+
+.registerTitle {
+  flex: 2;
+  font-size: 25rpx;
+  text-align: right;
+  padding-right: 58rpx;
+}
+
+.registerVal {
+  font-size: 25rpx;
+  flex: 5;
+}
+
+.submitBox{
+position: fixed;
+width: 100%;
+bottom: 80rpx;
+
+}
+.submitBtn{
+  width:  60%;
+}

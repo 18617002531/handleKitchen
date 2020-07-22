@@ -1,0 +1,9 @@
+
+<template name="tabBar">
+  <view class="barBox">
+    <view class="barItem" bindtap="navChange" data-cur="{{item.currentUrl}}" wx:for="{{menus.list}}" wx:key="currentUrl">  
+      <image class="barImage" src="{{item.currentUrl == menus.activeUrl ? item.checkedImgUrl:item.unCheckImgUrl}}"></image>
+      <view class="{{item.currentUrl == menus.activeUrl ? 'barTitleHight': 'barTitleGray'}}">{{item.title}}</view>
+    </view>
+  </view>
+</template>

@@ -1,0 +1,24 @@
+<view>
+	<view class="page-section page-section-spacing swiper">
+		<swiper autoplay="true" interval="3000" indicator-dots="true">
+			<block wx:for="{{barImgArr}}" wx:key="*this">
+				<swiper-item>
+					<image class="barImg" src="{{item}}"></image>
+					<!-- <view class="swiper-item {{item}}"></view> -->
+				</swiper-item>
+			</block>
+		</swiper>
+	</view>
+	<view class="mealDesc">
+		厨房：厨房油烟机bai、排气扇、燃气灶、厨房du地板、瓷砖、灶台（去油zhi除菌）
+		洗碗池、微波炉、橱dao柜（消毒杀菌）
+		卧室：床单、床头柜、化妆台、床底、衣柜（消毒杀菌)
+		客厅：茶几、地板、沙发、鞋柜（消毒杀菌）
+		卫生间：镜子、马桶、浴缸、盥洗台（消毒杀菌）
+		传统清洗剂含大量化学剂，都不敢用。
+		富氢水是任何不含化学活性剂，能有效去除农残、去油污、杀菌、去除甲醛、笨等异味。用途广泛各种蔬菜水果、肉类、海鲜等食物、家居厨具、卫生间器具、婴幼儿用品、宠物异味、甲醛、苯等有害气体的去除。使用方法非常简单方便：直接喷附或浸泡5-10分钟或者喷在抹布擦拭即可。省时，省水，快捷方便。
+	</view>
+  <view class="oppointBox">
+  <button type="primary" bindtap="intoRegister">预约</button>
+  </view>
+</view>

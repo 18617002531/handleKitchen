@@ -1,0 +1,53 @@
+<view class="wrapper">
+	<view class="shopBox" bindtap="intoDetail">
+		<view class="shopBoxDiv">
+			<view class="shopMsg">
+				<view class="shopDesc">
+					<text class="shopTitle">川妹子川菜店罗湖店</text>
+					<text class="handlePrice">编号： 2300
+        </text>
+				</view>
+				<view class="shopName">服务：厨房消杀</view>
+				<view class="shopAdd">地址：福田福民地铁站石厦小区233栋</view>
+			</view>
+		</view>
+		<view class="shopGuild">
+    <view class="guildTime">预约时间： 2020-08-08 12:12</view>
+    <view class="guildState">当前状态: 已完成</view>
+			</view>
+	</view>
+	<view class="shopBox" bindtap="intoDetail">
+		<view class="shopBoxDiv">
+			<view class="shopMsg">
+				<view class="shopDesc">
+					<text class="shopTitle">川妹子川菜店罗湖店</text>
+					<text class="handlePrice">编号： 2300
+        </text>
+				</view>
+				<view class="shopName">服务：厨房消杀</view>
+				<view class="shopAdd">地址：福田福民地铁站石厦小区233栋</view>
+			</view>
+		</view>
+		<view class="shopGuild">
+    <view class="guildTime">预约时间： 2020-08-08 12:12</view>
+    <view class="guildState">当前状态: 已完成</view>
+			</view>
+	</view>
+	<view class="shopBox" bindtap="intoDetail">
+		<view class="shopBoxDiv">
+			<view class="shopMsg">
+				<view class="shopDesc">
+					<text class="shopTitle">川妹子川菜店罗湖店</text>
+					<text class="handlePrice">编号： 2300
+        </text>
+				</view>
+				<view class="shopName">服务：厨房消杀</view>
+				<view class="shopAdd">地址：福田福民地铁站石厦小区233栋</view>
+			</view>
+		</view>
+		<view class="shopGuild">
+    <view class="guildTime">预约时间： 2020-08-08 12:12</view>
+    <view class="guildState">当前状态: 已完成</view>
+			</view>
+	</view>
+</view>
